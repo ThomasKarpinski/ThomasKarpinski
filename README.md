@@ -5,8 +5,8 @@ Most recently, I worked as a Junior SEO Specialist for two years. I try to be a 
 ## Skills
 
 [<img src="https://api.iconify.design/vscode-icons/file-type-html.svg?width=40&height=40">]()
+<img src="https://api.iconify.design/logos/css.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/python.svg?width=40&height=40">
-<img src="https://api.iconify.design/logos/react.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/javascript.svg?width=40&height=40">
 <img src="https://api.iconify.design/vscode-icons/file-type-npm.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/git-icon.svg?width=40&height=40">
