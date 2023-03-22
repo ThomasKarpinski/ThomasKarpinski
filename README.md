@@ -12,7 +12,7 @@ Most recently, I worked as a Junior SEO Specialist for two years. I try to be a 
 <img src="https://api.iconify.design/logos/mysql.svg?width=40&height=40">
 <img src="https://api.iconify.design/vscode-icons/file-type-vscode.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/figma.svg?width=40&height=40">
-<img src="https://api.iconify.design/logos/adobe-xd.svg?width=40&height=40">
+<img src="https://api.iconify.design/logos/pycharm.svg?width=40&height=40">
 <img src="https://api.iconify.design/openmoji/writing-hand-light-skin-tone.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/adobe-illustrator.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/microsoft-icon.svg?width=40&height=40">
