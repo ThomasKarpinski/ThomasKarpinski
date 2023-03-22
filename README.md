@@ -23,8 +23,8 @@ Most recently, I worked as a Junior SEO Specialist for two years. I try to be a 
 
 ## Social media
 
-[<img src="https://api.iconify.design/logos/github-octocat.svg?width=40&height40">](https://www.linkedin.com/in/MattyKarpinski/) 
-[<img src="https://api.iconify.design/logos/linkedin-icon.svg?width=40&height=40">](https://www.linkedin.com/in/MattyKarpinski/)  
+[<img src="https://api.iconify.design/logos/github-octocat.svg?width=40&height40">]
+[<img src="https://api.iconify.design/logos/docker.svg?width=40&height=40">]
 
 
 ## More info
