@@ -1,7 +1,32 @@
-### Hello World ?
-I am a fullstack software engineer from bangladesh- ? Working on multiple frontend and backend project using React and Nodejs
-- ? Learning design patterns in depth
-<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
-<br>## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /><img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><br>
-<br>
+# Hello stranger, 👋, sit back and take a look at my profile 😄
+
+Most recently, I worked as a Junior SEO Specialist for two years. I try to be a multidisciplinary person because of the particularly wide range of fields that have a direct impact on the construction of digital products, especially their customisation for users. For this reason, I seek knowledge from various fields such as Frontend Development, SEO or User Experience. Maybe one day I will manage to become the proverbial "Unicorn".
+
+## Skills
+
+[<img src="https://api.iconify.design/vscode-icons/file-type-html.svg?width=40&height=40">]()
+<iconify-icon icon="mdi:language-python"></iconify-icon>
+<img src="https://api.iconify.design/logos/react.svg?width=40&height=40">
+<img src="https://api.iconify.design/logos/javascript.svg?width=40&height=40">
+<img src="https://api.iconify.design/vscode-icons/file-type-npm.svg?width=40&height=40">
+<img src="https://api.iconify.design/logos/git-icon.svg?width=40&height=40">
+<img src="https://api.iconify.design/logos/material-ui.svg?width=40&height=40">
+<img src="https://api.iconify.design/vscode-icons/file-type-vscode.svg?width=40&height=40">
+<img src="https://api.iconify.design/logos/figma.svg?width=40&height=40">
+<img src="https://api.iconify.design/logos/adobe-xd.svg?width=40&height=40">
+<img src="https://api.iconify.design/openmoji/writing-hand-light-skin-tone.svg?width=40&height=40">
+<img src="https://api.iconify.design/logos/adobe-illustrator.svg?width=40&height=40">
+<img src="https://api.iconify.design/logos/microsoft-icon.svg?width=40&height=40">
+
+## Social media
+
+[<img src="https://api.iconify.design/logos/github-octocat.svg?width=40&height40">](https://www.linkedin.com/in/MattyKarpinski/) 
+[<img src="https://api.iconify.design/logos/linkedin-icon.svg?width=40&height=40">](https://www.linkedin.com/in/MattyKarpinski/)  
+
+
+## More info
+
+- 📫 How to reach me? Just check out my portfolio website [mateuszkarpinski.netlify.app](mateuszkarpinski.netlify.app) then you can email to me or read more abut me
+- 👀 I’m interested in finding a job as a Frontend Developer with React.js
+- 🌱 I’m currently learning React.js, but web3 is in the plans for the future
+- 💞️ I’m looking to collaborate on websites but I'm open for different options
