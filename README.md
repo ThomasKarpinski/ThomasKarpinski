@@ -24,7 +24,8 @@ I am graduating from high school with a politechnic profile this year with exten
 
 ## Social media
 
-<img src="https://api.iconify.design/logos/github-octocat.svg?width=40&height40"> <img src="https://api.iconify.design/logos/docker-icon.svg?width=40&height=40">
+[<img src="https://api.iconify.design/logos/github-octocat.svg?width=40&height40">](https://github.com/ThomasKarpinski)
+[<img src="https://api.iconify.design/logos/docker-icon.svg?width=40&height=40">](https://hub.docker.com/u/tomk23)
 
 
 ## More info
