@@ -17,6 +17,7 @@ I am a first-year student at AGH University of Science and Technology in Kraków
 <img src="https://api.iconify.design/logos/figma.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/pycharm.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/webstorm.svg?width=40&height=40">
+<img src="https://api.iconify.design/logos/clion.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/adobe-illustrator.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/adobe-photoshop.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/adobe-lightroom.svg?width=40&height=40">
