@@ -9,6 +9,7 @@ I am graduating from high school with a politechnic profile this year with exten
 <img src="https://api.iconify.design/logos/bootstrap.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/python.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/c.svg?width=40&height=40">
+<img src="https://api.iconify.design/logos/c++.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/javascript.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/git-icon.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/docker-icon.svg?width=40&height=40">
