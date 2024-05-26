@@ -31,8 +31,8 @@ I am a first-year student at AGH University of Science and Technology in Kraków
 
 
 ## More info
-- I've finished vocational state course. Qualification: Creation and administration websites, web applications and databases.
-- 📫 How to reach me? Just check out my photo-portfolio website [profoundstudio.netlify.app](https://profoundstudiotk.netlify.app/) then you can email to me, write a dm or read more abut me
-- 👀 I’m interested in finding a job or intership in any field of programming
-- 🌱 I’m currently learning building web applications based on python's frameworks and sql.
-- 💞️ My dream is to learn building artificial inteligence and neural network based on tensorflow or pytorch
+- I've finished a vocational state course. Qualification: Creation and administration of websites, web applications and databases.
+- 📫 How to reach me? Just check out my photo portfolio website [profoundstudio.netlify.app](https://profoundstudiotk.netlify.app/) then you can email me, write a dm or read more about me
+- 👀 I’m interested in finding a job or internship in any field of programming
+- 🌱 I’m currently learning to build a CRUD app using C++.
+- 💞️ My dream is to learn to build artificial intelligence and neural networks based on TensorFlow or PyTorch
