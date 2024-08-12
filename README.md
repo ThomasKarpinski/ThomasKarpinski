@@ -27,12 +27,11 @@ I am a first-year student at AGH University of Science and Technology in Kraków
 ## Social media
 
 [<img src="https://api.iconify.design/logos/github-octocat.svg?width=40&height40">](https://github.com/ThomasKarpinski)
-[<img src="https://api.iconify.design/logos/docker-icon.svg?width=40&height=40">](https://hub.docker.com/u/tomk23)
 
 
 ## More info
 - I've finished a vocational state course. Qualification: Creation and administration of websites, web applications and databases.
 - 📫 How to reach me? Just check out my photo portfolio website [profoundstudio.netlify.app](https://profoundstudiotk.netlify.app/) then you can email me, write a dm or read more about me
 - 👀 I’m interested in finding a job or internship in any field of programming
-- 🌱 I’m currently learning to build a CRUD app using C++.
+- 🌱 I’m currently learning data science tools such as pandas, numpy.
 - 💞️ My dream is to learn to build artificial intelligence and neural networks based on TensorFlow or PyTorch
