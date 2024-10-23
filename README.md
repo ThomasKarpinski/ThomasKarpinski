@@ -1,6 +1,6 @@
 # Hello stranger 👋, sit back and take a look at my profile 😄
 
-I am a first-year student at AGH University of Science and Technology in Kraków, pursuing a degree in Computer Physics, which is taught in English. I am interested in data science and related tools such as machine learning, neural networks, and programming languages such as R. I am also concerned about the application of physics to programming.
+I am a second-year student at AGH University of Science and Technology in Kraków, pursuing a degree in Computer Physics, which is taught in English. I am interested in data science and related tools such as machine learning, neural networks, and programming languages such as R. I am also concerned about the application of physics to programming.
 
 ## Skills
 
