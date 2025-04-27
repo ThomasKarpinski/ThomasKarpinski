@@ -11,7 +11,6 @@ I am a second-year student at AGH University of Science and Technology in Krakó
 <img src="https://api.iconify.design/logos/c.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/javascript.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/git-icon.svg?width=40&height=40">
-<img src="https://api.iconify.design/logos/docker-icon.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/mysql.svg?width=40&height=40">
 <img src="https://api.iconify.design/vscode-icons/file-type-vscode.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/figma.svg?width=40&height=40">
