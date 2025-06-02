@@ -26,7 +26,7 @@ I am a second-year student at AGH University of Science and Technology in Krakó
 ## Social media
 
 [<img src="https://api.iconify.design/logos/github-octocat.svg?width=40&height40">](https://github.com/ThomasKarpinski)
-
+[<img src="https://api.iconify.design/logos/linkedin.svg?width=40&height40">]([https://github.com/ThomasKarpinski](https://www.linkedin.com/in/tomasz-karpinski-894817359/))
 
 ## More info
 - I've finished a vocational state course. Qualification: Creation and administration of websites, web applications and databases.
