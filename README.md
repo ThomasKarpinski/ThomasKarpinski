@@ -1,6 +1,6 @@
 # Hello stranger 👋, sit back and take a look at my profile 😄
 
-I am a second-year student at AGH University of Science and Technology in Kraków, pursuing a degree in Computer Physics, which is taught in English. I am interested in data science and related tools such as machine learning, neural networks, and programming languages such as R. I am also concerned about the application of physics to programming.
+I am a second-year student at AGH University of Science and Technology in Kraków, pursuing a Computer Physics degree taught in English. I am interested in data science and related tools such as machine learning, neural networks, and programming languages such as Python. I am also concerned about the application of physics to programming.
 
 ## Skills
 
@@ -30,7 +30,7 @@ I am a second-year student at AGH University of Science and Technology in Krakó
 
 ## More info
 - I've finished a vocational state course. Qualification: Creation and administration of websites, web applications and databases.
-- 📫 How to reach me? Just check out my photo portfolio website [profoundstudio.netlify.app](https://profoundstudiotk.netlify.app/) then you can email me, write a dm or read more about me
+- 📫 How to reach me? Just check out my photo portfolio website [profoundstudio.netlify.app](https://profoundstudiotk.netlify.app/), then you can email me, write a dm or read more about me
 - 👀 I’m interested in finding a job or internship in any field of programming
 - 🌱 I’m currently learning data science tools such as pandas, numpy.
-- 💞️ My dream is to learn to build artificial intelligence and neural networks based on TensorFlow or PyTorch
+- 💞️ My dream is to work with data as a Data Scientist, applying technologies like Tensorflow or Pytorch.
