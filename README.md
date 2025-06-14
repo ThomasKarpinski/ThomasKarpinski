@@ -9,18 +9,13 @@ I am a second-year student at AGH University of Science and Technology in Krakó
 <img src="https://api.iconify.design/logos/bootstrap.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/python.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/c.svg?width=40&height=40">
-<img src="https://api.iconify.design/logos/javascript.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/git-icon.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/mysql.svg?width=40&height=40">
 <img src="https://api.iconify.design/vscode-icons/file-type-vscode.svg?width=40&height=40">
-<img src="https://api.iconify.design/logos/figma.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/pycharm.svg?width=40&height=40">
-<img src="https://api.iconify.design/logos/webstorm.svg?width=40&height=40">
-<img src="https://api.iconify.design/logos/clion.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/adobe-illustrator.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/adobe-photoshop.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/adobe-lightroom.svg?width=40&height=40">
-<img src="https://api.iconify.design/logos/microsoft-icon.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/debian.svg?width=40&height=40">
 
 ## Social media
