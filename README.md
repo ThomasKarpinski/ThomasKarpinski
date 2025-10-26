@@ -10,8 +10,6 @@ I am a third-year student at AGH University of Science and Technology in Kraków
 <img src="https://api.iconify.design/logos/c.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/git-icon.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/mysql.svg?width=40&height=40">
-<img src="https://api.iconify.design/vscode-icons/file-type-vscode.svg?width=40&height=40">
-<img src="https://api.iconify.design/logos/pycharm.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/adobe-illustrator.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/adobe-photoshop.svg?width=40&height=40">
 <img src="https://api.iconify.design/logos/adobe-lightroom.svg?width=40&height=40">
