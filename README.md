@@ -23,7 +23,8 @@ I am a third-year student at AGH University of Science and Technology in Kraków
 
 ## More info
 - I've finished a vocational state course. Qualification: Creation and administration of websites, web applications and databases.
-- 📫 How to reach me? Just check out my photo portfolio website [profoundstudio.netlify.app](https://profoundstudiotk.netlify.app/), then you can email me, write a dm or read more about me
+- 🧑‍🔬 I published scientific  paper "Constructing Differential Evolution via LLM Prompt Chaining" presented during GECCO 2025 Conference.
+- 📷 Check out my photo portfolio website [profoundstudio.netlify.app](https://profoundstudiotk.netlify.app/), then you can email me, write a dm or read more about me
 - 👀 I’m interested in finding a job or internship in any field of programming
-- 🌱 I’m currently learning data science tools such as pandas, numpy.
-- 💞️ My dream is to work with data as a Data Scientist.
+- 🌱 I’m currently working on several projects with ML and learning data science tools such as pandas, numpy, scikit learn.
+- 💞️ My dream is to work with data as in Python.
